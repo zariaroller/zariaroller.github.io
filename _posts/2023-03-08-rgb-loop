@@ -1,0 +1,9 @@
+---
+layout: post
+title: RGB Loop
+comments: true
+---
+
+For this coding assignment, I created a program that mimics a loop that turns on LEDs. Depending on how many times the loop has run, the program will print the color of an LED. Pictured below is my output. My tip is to not overcomplicate things - sometimes creating too many variables can overcomplicate things. 
+
+![rgb loop output](https://zariaroller.github.io/assets/img/rgbloop.png)
